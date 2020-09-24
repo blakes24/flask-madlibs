@@ -1,0 +1,30 @@
+body {
+    text-align: center;
+    padding: 2em;
+    
+}
+
+label {
+    display: block;
+    margin: 1em
+}
+
+form {
+    text-align: left;
+    margin: .5em 2em;
+    text-transform: capitalize;
+}
+
+button {
+    margin-left: 1em;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+}
+
+#home {
+    text-align: center;
+}
+
